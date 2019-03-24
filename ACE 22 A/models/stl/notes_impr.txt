@@ -1,0 +1,6 @@
+- Tut imprimer en hauteur 0.15 avec un infill de 40%
+- Imprimer "support_entree_air.stl" avec le cône inversé en haut
+- Imprimer "support_joint.stl" avec le filtage (pour serrer le canon) en haut
+- Imprimer "frein_de_bouche.stl" avec le cône en haut
+- Imprimer "douille.stl" avec les petits congés en haut
+- Imprimer "canon_support_entree.stl" avec le cône en haut

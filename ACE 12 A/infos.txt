@@ -1,0 +1,7 @@
+Canon à ACE de 12mm
+Réaliser en impression 3D
+
+Utilise un joint torique :
+- Diamètre du tore : 3.00
+- Diamètre intérieur : 17
+- Joint BECA 010 article "010.1BE01" sur http://francejoint.fr
