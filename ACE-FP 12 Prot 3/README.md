@@ -1,6 +1,8 @@
 # Canon ACE-FP 12 Prot 3
 Canon à Air Comprimé Explosif 'Fusil de Précision' calibre 12mm prototype 3.
-Ce prototype à pour particularité de ne pas nécessiter de serrage, il suffit simplement de pousser grasse à la barre adéquate.
+
+Ce prototype à pour particularité de ne pas nécessiter de serrage, il suffit simplement de pousser grâce à la barre adéquate.
+
 Ceci est une version dérivé ressemblant énormément au prototype n° 2.
 
 ## Matériaux
