@@ -7,4 +7,4 @@ Ceci est une version dérivé ressemblant énormément au prototype n° 2.
 Les deux principaux matériaux de ce canon sont l'acier et l'aluminium. Pour ce qui est des différents long tubes, j'ai pris le temps de prendre des tailles standarts du marché (16x2mm, etc.).
 
 ## Spécificités techniques
-Autodesk Inventor propose une estimation de poids de 0,837 kg.
+Autodesk Inventor propose une estimation de poids de 0,777 kg (plus léger que le prototype 2 de 0,837 kg).
