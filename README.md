@@ -10,3 +10,5 @@ Notes à propos de ce système :
 - Nécessite une arrivée d'air suffisante pour atteindre la pression de rupture de la parroie mais ne nécessite pas beaucoup de débit
 
 Système inventé début 2017.
+
+> Ce dépôt est publique, cela à pour unique but de concevoir le système le plus fiable et efficasse, mais en aucun je ne me tiendrais responsable de quelconque utilisation illégal de ce canon.
